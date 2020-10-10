@@ -334,8 +334,8 @@
     {
         "name": "Backblaze",
         "url": "https://secure.backblaze.com/user_account.htm",
-        "difficulty": "impossible",
-        "notes": "Accounts cannot be deleted, even when contacting customer service. User account credentials will be permanently retained by Backblaze.",
+        "difficulty": "medium",
+        "notes": "First delete all data (Backup Service: all backups / B2: all data, all empty buckets and all non-master application keys) and cancel the service. Second go to My Settings (link on the left of the page) and select 'Delete Account'.  For more detailed info, see https://help.backblaze.com/hc/en-us/articles/217665728-Canceling-and-Deleting-a-Backblaze-Account",
         "domains": [
             "backblaze.com"
         ]
